@@ -3,9 +3,9 @@
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="29px">, 
   I'm Didier Domínguez
 </h1>
+<br/>
 
-<p align="center">
-  <br/>
+<div align="center">
   <a href="https://instagram.com/dadu0699">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="dadu0699"/>
   </a>
@@ -21,7 +21,7 @@
   <a href="https://my.playstation.com/profile/dadu0699">
     <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" />
   </a>  
-</p>
+</div>
 
 <h3 align="center">A passionate developer from Guatemala</h3>
 
@@ -29,14 +29,14 @@
 - 💬 Ask me about **Data Structures, Lexical Analysis, Parsing, Cloud Technologies ...**
 - 📫 How to reach me **dadu0699@gmail.com**
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=dadu0699&row=2&column=3&layout=compact&theme=darkhub&no-bg=true" alt="dadu0699" />
   </a> 
-</p>
+</div>
 
 <h2 align="left">Languages and tools</h2>
-<p align="center">
+<div align="center">
   <br/>
   <!-- Languages -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -58,6 +58,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle_Database-000000?style=for-the-badge&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
@@ -110,13 +111,13 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dadu0699&show_icons=true&locale=en&layout=compact&theme=radical" alt="dadu0699" />
-</p>
-<p align="center">
+</div>
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dadu0699&show_icons=true&locale=en&layout=compact&theme=radical" alt="dadu0699" />
   <img src="https://github-readme-stats.vercel.app/api?username=dadu0699&show_icons=true&locale=en&layout=compact&theme=radical" alt="dadu0699" />
-</p>
+</div>
