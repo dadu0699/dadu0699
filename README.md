@@ -9,7 +9,7 @@
   <a href="https://linkedin.com/in/didier-domínguez-126979201">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="didier-domínguez-126979201" />
   </a>
-  <a href="https://psnprofiles.com/dadu06999">
+  <a href="https://psnprofiles.com/dadu0699">
     <img src="https://img.shields.io/badge/PlayStation-003791.svg?style=for-the-badge&logo=playstation&logoColor=white" />
   </a> 
   <a href="https://xboxgamertag.com/search/dadu0699">
