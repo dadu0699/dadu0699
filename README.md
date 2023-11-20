@@ -50,9 +50,11 @@
 
   <!-- Databases -->
   <img src="https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-000000.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=mariadb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle_Database-000000.svg?style=for-the-badge&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle_Database-000000.svg?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-000000.svg?style=for-the-badge&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/firebase-ffca28.svg?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
@@ -71,11 +73,15 @@
   <img src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deno-white.svg?style=for-the-badge&logo=deno&logoColor=464647"/>
+  <img src="https://img.shields.io/badge/bun-282a36.svg?style=for-the-badge&logo=bun&logoColor=fbf0df"/>
   <img src="https://img.shields.io/badge/Vite-B73BFE.svg?style=for-the-badge&logo=vite&logoColor=FFD62E"/>
   <img src="https://img.shields.io/badge/Ionic-3880FF.svg?style=for-the-badge&logo=ionic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Svelte-4A4A55.svg?style=for-the-badge&logo=svelte&logoColor=FF3E00"/>
+  <img src="https://img.shields.io/badge/React-000000.svg?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Svelte-white.svg?style=for-the-badge&logo=svelte&logoColor=FF3E00"/>
+  <img src="https://img.shields.io/badge/Astro-0C1222.svg?style=for-the-badge&logo=astro&logoColor=FDFDFE"/>
+  <img src="https://img.shields.io/badge/next%20js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pug-E3C29B.svg?style=for-the-badge&logo=pug&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
@@ -102,7 +108,12 @@
 
   <!-- Cloud  -->
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=whit"/>
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020.svg?style=for-the-badge&logo=Cloudflare&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Railway-000000.svg?style=for-the-badge&logo=railway&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=render&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
 
   <!-- Web Browsers -->
   <img src="https://img.shields.io/badge/Google_chrome-4285F4.svg?style=for-the-badge&logo=Google-chrome&logoColor=white"/>
@@ -126,7 +137,9 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dadu0699&show_icons=true&locale=en&layout=compact&theme=radical" alt="dadu0699" />
 </div>
+<!--
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dadu0699&show_icons=true&locale=en&layout=compact&theme=radical" alt="dadu0699" />
   <img src="https://github-readme-stats.vercel.app/api?username=dadu0699&show_icons=true&locale=en&layout=compact&theme=radical" alt="dadu0699" />
 </div>
+-->
