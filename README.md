@@ -21,7 +21,6 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence, Software Development Methodologies**
 - 💬 Ask me about **Data Structures, Lexical Analysis - Parsing, Cloud Technologies, Video Games, Series, Movies ...**
-- 📫 How to reach me **dadu0699@gmail.com**
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
